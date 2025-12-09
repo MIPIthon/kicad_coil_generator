@@ -1,6 +1,6 @@
 **FILE:**
 
-KICAD_COIL_GENERATOR.py
+coil_generator_rev4.py
 
 **SHORT DESCRIPTION**
 
