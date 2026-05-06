@@ -16,3 +16,18 @@ coil_generator_rev4.py
 
 **KNOWN ISSUE**
 - DRC raises errors due to zero clearance between PTH and traces (so far no solution found)
+
+
+**Welcome to the kicad_coil_generator wiki!**
+
+_Example for the three different settings for the edge rounding (all cu layers visible)_
+![kicad_coil_gen_example_differently_rounded_edges_all_cu](https://github.com/MIPIthon/kicad_coil_generator/blob/main/kicad_coil_gen_example_differently_rounded_edges_all_cu.png)
+
+_Example for the three different settings for the edge rounding (F.Cu layer visible)_
+![kicad_coil_gen_example_differently_rounded_edges_f_cu](https://github.com/MIPIthon/kicad_coil_generator/blob/main/kicad_coil_gen_example_differently_rounded_edges_f_cu.png)
+
+_Example for the three different settings for the edge rounding (B.Cu layer visible)_
+![kicad_coil_gen_example_differently_rounded_edges_b_cu](https://github.com/MIPIthon/kicad_coil_generator/blob/main/kicad_coil_gen_example_differently_rounded_edges_b_cu.png)
+
+_Example for the three different settings for the edge rounding (3D view)_
+![kicad_coil_gen_example_differently_rounded_edges_3D_all_cu](https://github.com/MIPIthon/kicad_coil_generator/blob/main/kicad_coil_gen_example_differently_rounded_edges_3D_all_cu.png)
