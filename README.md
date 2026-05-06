@@ -1,14 +1,14 @@
 <h1>KICAD coil generator</h1>
 
-**FILE:**
+**FILES:**
 
 coil_generator_rev4.py
+coild_generator_rev10_4.py or coil_generator_rev10_5.py
 
 **SHORT DESCRIPTION**
 
 - Script generates *.kicad_mod of a coil based on the user input provided in file.
-
-- Functions available to create MxN matrices of coils (only rev4)
+- Function implemented to create MxN matrices of coils (only rev4)
 
 **Examples for revision 4:**
 
