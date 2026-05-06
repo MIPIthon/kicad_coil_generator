@@ -9,7 +9,7 @@ or coil_generator_rev10_5.py
 
 <h2>Short description</h2>
 
-- Script generates *.kicad_mod of a coil based on the user input provided in file.
+- Script generates *.kicad_mod of a coil based on the user input provided
 - Multiple settings for the radius of the edges can be select (see example for rev 4)
 - Function implemented to create MxN matrices of coils (only rev4)
 - Versions higher than rev10_4 add smooth transition feature between the spiral section and the connection section
