@@ -4,7 +4,7 @@
 
 coil_generator_rev4.py
 
-coild_generator_rev10_4.py
+coil_generator_rev10_4.py
 or coil_generator_rev10_5.py
 
 <h2>Short description</h2>
